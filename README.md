@@ -1,3 +1,6 @@
+MOVED TO https://github.com/surrealzerg/foundry-die-hard-v13
+
+
 2026-03-07 - UI Fixes
 2026-03-06 - Fixed Monk's Token Bar compatibility
 
